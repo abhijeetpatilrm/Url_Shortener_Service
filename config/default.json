@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://abhijeetpatilhnl:rUn4KnBtyZzfqwyc@cluster1.vm5sk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1",
+  "baseUrl": "http://localhost:5000"
+}
